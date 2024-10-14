@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCBootstrap.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCBootstrap.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\Images\\IMG_1394.JPG",
+      "PackagePath": "staticwebassets\\Images\\IMG_1394.JPG"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\Images\\IMG_1395.JPG",
+      "PackagePath": "staticwebassets\\Images\\IMG_1395.JPG"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\Images\\IMG_1396.JPG",
+      "PackagePath": "staticwebassets\\Images\\IMG_1396.JPG"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Proyects\\Programacion web II\\Proyecto MVC Bootstrap\\MVCBootstrap\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCBootstrap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVCBootstrap.props",
+      "PackagePath": "build\\MVCBootstrap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCBootstrap.props",
+      "PackagePath": "buildMultiTargeting\\MVCBootstrap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVCBootstrap.props",
+      "PackagePath": "buildTransitive\\MVCBootstrap.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

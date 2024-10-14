@@ -1,0 +1,11 @@
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\bin\Debug\net8.0\Practica3.Utilidades.deps.json
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\bin\Debug\net8.0\Practica3.Utilidades.dll
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\bin\Debug\net8.0\Practica3.Utilidades.pdb
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\Practica3.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\Practica3.Utilidades.AssemblyInfoInputs.cache
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\Practica3.Utilidades.AssemblyInfo.cs
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\Practica3.Utilidades.csproj.CoreCompileInputs.cache
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\Practica3.Utilidades.dll
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\refint\Practica3.Utilidades.dll
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\Practica3.Utilidades.pdb
+D:\Proyects\Programacion web II\Practica3\Practica3.Utilidades\obj\Debug\net8.0\ref\Practica3.Utilidades.dll
